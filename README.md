@@ -32,12 +32,6 @@ TikTok is developing a machine learning model to classify videos as either claim
 - Created engagement-rate variables
 - Prepared findings for future EDA and modeling
 
-## Files
-
-- `tiktok-data-inspection.ipynb` — Python notebook
-- `TikTok_PACE_Strategy.pdf` — PACE strategy document
-- `TikTok_Executive_Summary.pdf` — Executive summary
-
 ## Key Takeaway
 
 This project shows how Python and pandas can be used to inspect and organize data before deeper analysis. Early data inspection helps identify useful variables, potential issues, and next steps for building a reliable machine learning model.
